@@ -1,8 +1,8 @@
-title: Storytelling Headquarters
+title: Storytelling Sidebar
 author: Jugal Patel
 email: jugal@jugal-patel.com
 description: > # this means to ignore newlines until "baseurl:"
-  A blog for D&D content and helping new DMs get off the ground and running games.
+  A blog for D&amp;D content and helping new DMs run games.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
