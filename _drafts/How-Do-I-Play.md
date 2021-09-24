@@ -6,13 +6,13 @@ categories: [DM]
 tags: [DM]
 ---
 
-Unlike most traditional board games like Monopoly, Clue or The Game of Life, the rules for D&D are not an instruction guide on how to play the game step-by-step. The rules are in place for both the Dungeon Master (DM) and the adventurers to figure out how to advance the story. The DM uses the rules as reference when a scene or particular encounter comes into play. Knowledge of the rules, like any other game, comes over time as you actually play the game so don't sweat it if you don't know that the rules for hiding are in Chapter 7 under the subheading Dexterity. Over time, you'll learn to flip through the rule book when a situation arises you don't know how to handle and crease the pages of the book enough to flip to the exact spot.
+Unlike most traditional board games you're familiar with Monopoly, Clue or The Game of Life, the rules for D&D are not an instruction guide on how to play the game step-by-step. The rules are in place for both the Dungeon Master (DM) and the adventurers to figure out how to advance the story. The DM uses the rules as reference when a scene or particular encounter comes into play. Knowledge of the rules, like any other game, comes over time as you actually play the game so don't sweat it if you don't know that the rules for hiding are in Chapter 7 under the subheading Dexterity. Over time, you'll learn to flip through the rule book when a situation arises you don't know how to handle and crease the pages of the book enough to flip to the exact spot.
 
 ## Game Rules
 
 Now the biggest question of your DM-ing career is figuring out if you are old-school and like having notes written down in front of you or whether you prefer the convenience of technology. Either way Wizards of the Coast, the publishers of D&D, have made the basic rules available free for everyone to use, both digitally and in a pdf for you to print.
 
-If you want all the rules offline, at your fingertips, this is the best place to get them: [Basic rules in a PDF](https://dnd.wizards.com/articles/features/basicrules)`
+If you want all the rules offline, at your fingertips, this is the best place to get them: [Basic rules in a PDF](https://dnd.wizards.com/articles/features/basicrules)
 
 If you prefer an interactive online tool-set, use this site: [Basic rules on DnDBeyond](https://www.dndbeyond.com/sources/basic-rules)
 
