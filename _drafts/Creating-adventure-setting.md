@@ -68,10 +68,10 @@ Here's a few locations that might exist in the area that the players might encou
 ### The Log House Tavern
 
 - A spacious log cabin where the workers of the settlement go to revel and drink the night away
-- The tavern is run by a large gruff man named Houghton who used to be a logger before erecting this tavern
+- The tavern is run by a large gruff man named Hough who used to be a logger before erecting this tavern
 - There is a stark divide down the center of the tavern as if marked by a line. Hunters and trappers sit on one side, miners sit on the other.
 - A large round table sits in the center of the Log House carved with all sorts of illustrations and placed upon it is a small brass coffer.
-- **The Table of Tales** - A long standing tradition in the Log House, anyone is allowed to toss a few pieces into the coffer and stand up on the table to recount a fantastic experience or tell a tall tale. The stories that get harmonious approval from the patrons and the barkeep are then carved into the table itself by Houghton.
+- **The Table of Tales** - A long standing tradition in the Log House, anyone is allowed to toss a few pieces into the coffer and stand up on the table to recount a fantastic experience or tell a tall tale. The stories that get harmonious approval from the patrons and the barkeep are then carved into the table itself by Hough.
 
 > Notice how this description is a little more thought out, even including an activity for the PCs to partake in. Taverns are a great place for PCs to find information and meet with the locals and they are also likely to spend a few nights here so it's worth the effort of prepping a little more. Including the part about how hunters and trappers separate themselves from the miners can give the players a great idea of the atmosphere of the town.
 
