@@ -96,9 +96,9 @@ Here's a few locations that might exist in the area that the players might encou
 
 This step is just to put everything into relation of each other. You can feel free to draw out a physical map on pen and paper for a visual or even find a map online and just modify it to suit your needs. The important part of this step is just roughly determining the distances to get from location to location and mapping out any landmarks.
 
-| ![Cloverton.jpg]() |
+| ![Cloverton.png](/assets/img/Cloverton.png) |
 |:--:|
-| *A simple sketch can go a long way in helping visualize the area.* |
+| *Clearly you don't need any artistic talent to put something like this together, just the locations and some details.* |
 
 ## Getting the Players Involved with Prep
 
