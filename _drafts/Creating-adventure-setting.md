@@ -54,7 +54,7 @@ Here's a few locations that might exist in the area that the players might encou
 
 - An ominous cave entrance that opens wide with a jagged row of stalagmites and stalactites lining the entrance
 - Cart tracks run from inside the mine to a stone building just outside the entrance
-- Miners are seen going in and out of the cave with the rhythmic sound of steel hitting stone echoes through the shaft
+- Miners are seen going in and out of the cave as the rhythmic sound of steel hitting stone echoes through the shaft
 - The mine is overseen by an cowardly foreman named Gil
 
 > With all our descriptions, we want to evoke a strong mental image that the players can instantly picture. We want to start with a strong focal point and fill in details. Use these bullet points as a jumping off point and as the players explore, start improvising more details. Reminder, this is just the entrance, the map of the mine will come in a following post.
@@ -63,15 +63,15 @@ Here's a few locations that might exist in the area that the players might encou
 
 - A paranoid old prospector with wiry white hair that refuses to step too deep into the mine
 - Knows about the undead threat and refuses to investigate it himself
-- He has heard tales of the dwarves that used to inhabit this territory long ago and believes they are encroaching on their old domain.
+- He has heard tales of the dwarves that used to inhabit this territory long ago and believes they are encroaching on their old domain
 
 ### The Log House Tavern
 
 - A spacious log cabin where the workers of the settlement go to revel and drink the night away
 - The tavern is run by a large gruff man named Hough who used to be a logger before erecting this tavern
-- There is a stark divide down the center of the tavern as if marked by a line. Hunters and trappers sit on one side, miners sit on the other.
-- A large round table sits in the center of the Log House carved with all sorts of illustrations and placed upon it is a small brass coffer.
-- **The Table of Tales** - A long standing tradition in the Log House, anyone is allowed to toss a few pieces into the coffer and stand up on the table to recount a fantastic experience or tell a tall tale. The stories that get harmonious approval from the patrons and the barkeep are then carved into the table itself by Hough.
+- There is a stark divide down the center of the tavern as if marked by a line. Hunters and trappers sit on one side, miners sit on the other
+- A large round table sits in the center of the Log House carved with all sorts of illustrations and placed upon it is a small brass coffer
+- **The Table of Tales** - A long standing tradition in the Log House, anyone is allowed to toss a few pieces into the coffer and stand up on the table to recount a fantastic experience or tell a tall tale. The stories that get harmonious approval from the patrons and the barkeep are then carved into the table itself by Hough
 
 > Notice how this description is a little more thought out, even including an activity for the PCs to partake in. Taverns are a great place for PCs to find information and meet with the locals and they are also likely to spend a few nights here so it's worth the effort of prepping a little more. Including the part about how hunters and trappers separate themselves from the miners can give the players a great idea of the atmosphere of the town.
 
@@ -94,7 +94,7 @@ Here's a few locations that might exist in the area that the players might encou
 
 ## Roughly Mapping the Area - 5 to 10 minutes
 
-This step is just to put everything into relation of each other. You can feel free to draw out a physical map on pen and paper for a visual or even find a map online and just modify it to suit your needs. The important part of this step is just roughly determining the distances to get from location to location and mapping out any landmarks.
+This step is just to put everything into relation of each other. You can feel free to draw out a physical map with pen and paper for a visual or even find a map online and just modify it to suit your needs. The important part of this step is just roughly determining the distances to get from location to location and mapping out any landmarks.
 
 | ![Cloverton.png](/assets/img/Cloverton.png) |
 |:--:|
