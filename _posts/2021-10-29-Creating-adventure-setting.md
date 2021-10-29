@@ -3,6 +3,7 @@ title: "Creating your Adventure Setting"
 date: 2021-10-29
 categories: [DM]
 tags: [DM]
+toc: true
 ---
 
 
