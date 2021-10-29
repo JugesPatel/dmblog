@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Setting up Your First Game"
 date: 2021-10-07
 categories: [DM]
