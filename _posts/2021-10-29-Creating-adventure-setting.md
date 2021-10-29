@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Building your Adventure Setting"
-date: 2021-10-21
+title: "Creating your Adventure Setting"
+date: 2021-10-29
 categories: [DM]
 tags: [DM]
 ---
