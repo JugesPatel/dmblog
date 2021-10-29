@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-10-29T13:06:24-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Storytelling Sidebar</title><subtitle>A blog for D&amp;D content and helping new DMs run games.
+</subtitle><author><name>Jugal Patel</name></author><entry><title type="html">Creating your Adventure Setting</title><link href="http://localhost:4000/dm/Creating-adventure-setting/" rel="alternate" type="text/html" title="Creating your Adventure Setting" /><published>2021-10-29T00:00:00-04:00</published><updated>2021-10-29T00:00:00-04:00</updated><id>http://localhost:4000/dm/Creating-adventure-setting</id><content type="html" xml:base="http://localhost:4000/dm/Creating-adventure-setting/">&lt;p&gt;In this post, we’re going to take the adventure pitch from the last blog post (&lt;a href=&quot;../_posts/2021-10-07-Setting-up-your-first-game.md&quot;&gt;Setting up Your First Game&lt;/a&gt;) and turn it into a full blown setting with locations, characters, and a little bit of history. This is more an exercise showing you my process so feel free to change things as you see fit. Each of these steps has a rough estimate of how much time I typically spend on them. This is not written in stone, and if you have more time to spend go ahead and iterate through each step refining details every pass. The main thing to remember is you want enough details to feel comfortable about running the game. The level is different from DM to DM and as you play more, your preparation style evolves. My main advice is to focus on aspects of the story and setting that are hard to improvise during play, like locations and characters, and leave the rest for the table.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; We will build out the dungeon map for the Lion’s Head Mine and filling it with enemies in another post since that requires a lot more detail.&lt;/p&gt;
+
+&lt;p&gt;Now here’s a quick refresher of the adventure pitch:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In the small mining town of Cloverton, there spreads a great evil… Crawling, shambling closer to the light, something has been unearthed that had been buried away for a very long time. It may have been by natural forces inside the mountain or perhaps excavations by the Lion’s Head Mining Company, but whatever it is needs to be dealt with. It started slowly, with a few miners going missing but now the surrounding wildlife has been scared off and the people are starting to question the dwindling supply of miners showing up to work every day. The Lion’s Head Mining Company has put out a contract for helping them solve their little problem and you, brave adventurer, are the one for the job.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;a-history-lesson---10-to-15-minutes&quot;&gt;A History Lesson - 10 to 15 minutes&lt;/h2&gt;
+
+&lt;p&gt;One thing I find that helps greatly with my improvisation during play is spending some time thinking about the history of my setting. This is also known as world-building. This may be counter intuitive since the details of the setting’s history might not actually come out during play, but I find that I can improvise details that are on-theme with the setting using these as a foundation.&lt;/p&gt;
+
+&lt;p&gt;All we need are a few bullet points:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A clan of dwarves were settled in the mineral-rich mountains&lt;/li&gt;
+  &lt;li&gt;An Ancient White Dragon wanted the treasures and drove the dwarves out, covering the region in ice&lt;/li&gt;
+  &lt;li&gt;Legendary heroes slayed the dragon, returning peace to the land and thawing the region&lt;/li&gt;
+  &lt;li&gt;Bands of trappers and hunters created a small settlement to hunt the fast-growing wildlife population&lt;/li&gt;
+  &lt;li&gt;Prospectors stumbled upon rich veins in the mountains and began a mining company&lt;/li&gt;
+  &lt;li&gt;The settlement grew much larger with an influx of miners looking to make a fortune&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We don’t need to write out too many details, just need a short timeline that tells us the story of the location. I like to build this in an iterative process where I paint broad strokes at the beginning leaving room for details to be added in later. This way, there’s still an idea in your head about how this region was formed but you’re not tied to specific details that you need to remember while you’re running the game. As the player characters (PCs) explore the region, the history of the world can slowly be revealed.&lt;/p&gt;
+
+&lt;p&gt;For example, when running the game let’s say one of the PCs asks to speak to one of the elders of the town. You already have an idea of what brought that person to this isolated peninsula - a fast-growing wildlife population. You also know the conditions of the region - untamed wilderness that hadn’t been touched by civilization. You could probably also make some assumptions on how they feel about the fast-growing population. All this can be improvised from the small bit of world-building you do from the beginning and as it starts coming out in game, you can feel free to add details to this history and make it a reality for your setting.&lt;/p&gt;
+
+&lt;h2 id=&quot;important-locations--npcs---30-to-45-minutes&quot;&gt;Important Locations &amp;amp; NPCs - 30 to 45 minutes&lt;/h2&gt;
+
+&lt;p&gt;Now that we have the history, let’s start adding some substance to the setting. We only need to describe a few important locations that the PCs are most likely to go to since the majority of the adventure is going to focus on the mine. If the characters decide to venture out and do a little exploring beforehand, we have some options prepared for where they may go. And for anywhere else not prepared, feel free to use this same process to improvise something on the fly. Keep these descriptions short and punchy. Try to come up with a few bullet points to capture the theme of the location and maybe include something interesting that the PCs may interact with. The basic template looks like this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h3 id=&quot;name-of-location&quot;&gt;Name of Location&lt;/h3&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;A few details describing the location&lt;/li&gt;
+    &lt;li&gt;Some non-playable characters that the players can interact with&lt;/li&gt;
+    &lt;li&gt;Possibly an activity or service that the characters can do at this location e.g. Shopping, renting a room for the night, etc.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is also where you can add non-playable characters (NPCs) into the world in the places players are most likely to encounter them. Remember, the NPCs are just supporting characters you are playing in the story. You can act out the characters or simply describe the conversation that the players have with them and what they learn or gain. This is a whole topic on it’s own but for a quick summary of how I portray these supporting characters:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Picking a character from an existing work (book, movie, etc) and template your NPC using that character as inspiration&lt;/li&gt;
+  &lt;li&gt;Write a description of the character and some mannerisms&lt;/li&gt;
+  &lt;li&gt;Write down some key information that would be useful for the players to learn by interacting with this NPC&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here’s a few locations that might exist in the area that the players might encounter:&lt;/p&gt;
+
+&lt;h3 id=&quot;lions-head-mine-entrance&quot;&gt;Lion’s Head Mine Entrance&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;An ominous cave entrance that opens wide with a jagged row of stalagmites and stalactites lining the entrance&lt;/li&gt;
+  &lt;li&gt;Cart tracks run from inside the mine to a stone building just outside the entrance&lt;/li&gt;
+  &lt;li&gt;Miners are seen going in and out of the cave as the rhythmic sound of steel hitting stone echoes through the shaft&lt;/li&gt;
+  &lt;li&gt;The mine is overseen by an cowardly foreman named Gil&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;With all our descriptions, we want to evoke a strong mental image that the players can instantly picture. We want to start with a strong focal point and fill in details. Use these bullet points as a jumping off point and as the players explore, start improvising more details. Reminder, this is just the entrance, the map of the mine will come in a following post.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;gil-the-foreman&quot;&gt;Gil the Foreman&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A paranoid old prospector with wiry white hair that refuses to step too deep into the mine&lt;/li&gt;
+  &lt;li&gt;Knows about the undead threat and refuses to investigate it himself&lt;/li&gt;
+  &lt;li&gt;He has heard tales of the dwarves that used to inhabit this territory long ago and believes they are encroaching on their old domain&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;the-log-house-tavern&quot;&gt;The Log House Tavern&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A spacious log cabin where the workers of the settlement go to revel and drink the night away&lt;/li&gt;
+  &lt;li&gt;The tavern is run by a large gruff man named Hough who used to be a logger before erecting this tavern&lt;/li&gt;
+  &lt;li&gt;There is a stark divide down the center of the tavern as if marked by a line. Hunters and trappers sit on one side, miners sit on the other&lt;/li&gt;
+  &lt;li&gt;A large round table sits in the center of the Log House carved with all sorts of illustrations and placed upon it is a small brass coffer&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;The Table of Tales&lt;/strong&gt; - A long standing tradition in the Log House, anyone is allowed to toss a few pieces into the coffer and stand up on the table to recount a fantastic experience or tell a tall tale. The stories that get harmonious approval from the patrons and the barkeep are then carved into the table itself by Hough&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Notice how this description is a little more thought out, even including an activity for the PCs to partake in. Taverns are a great place for PCs to find information and meet with the locals and they are also likely to spend a few nights here so it’s worth the effort of prepping a little more. Including the part about how hunters and trappers separate themselves from the miners can give the players a great idea of the atmosphere of the town.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;lions-head-mining-company-headquarters&quot;&gt;Lion’s Head Mining Company Headquarters&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Run by a shrewd dwarven businesswoman named Berta Clanghammer who has a strong emphasis on bottom-line&lt;/li&gt;
+  &lt;li&gt;A large two-story stone building located at the edge of town nearest the mine&lt;/li&gt;
+  &lt;li&gt;Protests led by miners complaining about the unsafe conditions are a common sight outside the building&lt;/li&gt;
+  &lt;li&gt;The headquarters stockpile extra mining equipment and frequently exports wagon loads of ore&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Here we want to show that the world is reacting to the events of the story and not just the PCs. This is a great location for the PCs to find out more information about the contract to better prepare themselves for the mine.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;hunters-and-trappers-guild&quot;&gt;Hunters and Trapper’s Guild&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A winding, forested road leads to the top of a hill where this imposing cabin sits&lt;/li&gt;
+  &lt;li&gt;A place for hunters and trappers of this region to gather and resupply, occasionally share information&lt;/li&gt;
+  &lt;li&gt;Large mounted skulls and taxidermied heads of beasts stare as you walk through the cabin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Now we start adding locations that the adventures could stumble upon but are also likely to just skip over. The majority of the settlement will have locations like this where they may not be super relevant to the story at hand but could come up if the PCs decide to seek them out. For locations like these, I like to improvise most of the details during game and I could prepare as little as the name of the location and maybe an NPC that can be found.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;roughly-mapping-the-area---5-to-10-minutes&quot;&gt;Roughly Mapping the Area - 5 to 10 minutes&lt;/h2&gt;
+
+&lt;p&gt;This step is just to put everything into relation of each other. You can feel free to draw out a physical map with pen and paper for a visual or even find a map online and just modify it to suit your needs. The important part of this step is just roughly determining the distances to get from location to location and mapping out any landmarks.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/img/Cloverton.png&quot; alt=&quot;Cloverton.png&quot; /&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;em&gt;Clearly you don’t need any artistic talent to put something like this together, just the locations and some details.&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;getting-the-players-involved-with-prep&quot;&gt;Getting the Players Involved with Prep&lt;/h2&gt;
+
+&lt;p&gt;Last thing, if you have some time before the scheduled session, ask your players some of these questions so we can tailor the adventure around something they might be interested in:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How did your character hear about this contract?&lt;/li&gt;
+  &lt;li&gt;Is your character taking this job to make money or for altruistic reasons?&lt;/li&gt;
+  &lt;li&gt;Does your character have any family in the town of Cloverton, or the surrounding area?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We can spur the players’ imagination with these sorts of questions and once they start answering, write everything down. We can go over our notes we’ve written for the setting and change or rewrite parts to fit the player’s characters in. By integrating the backstories of your characters into the setting, it will further enhance the experience and actually give the players a chance to contribute more to the story. Maybe the innkeeper is a relative of one of the PCs, or maybe they are actually part of the Hunters and Trapper’s guild. Anything is on the table here since it just adds to the depth of the setting and makes the players more excited to play as well.&lt;/p&gt;
+
+&lt;p&gt;You can ask your players these questions through a simple text thread or it could be a conversation. If the players start asking questions about the setting in return, feel free to give them a few details like names of locations or NPCs that they could encounter but keep most of the information sharing for the table.&lt;/p&gt;
+
+&lt;h2 id=&quot;next-step---dungeon-delving&quot;&gt;Next step - Dungeon Delving&lt;/h2&gt;
+
+&lt;p&gt;Now we have the setting prepared, hopefully you are feeling more confident in sitting down and running this adventure! In the next post, we’ll actually build out with the map for the mine and populate it with enemies but even just the preparation here can be used as a foundation for many other adventures to come.&lt;/p&gt;</content><author><name>Jugal Patel</name></author><category term="DM" /><category term="DM" /><summary type="html">In this post, we’re going to take the adventure pitch from the last blog post (Setting up Your First Game) and turn it into a full blown setting with locations, characters, and a little bit of history. This is more an exercise showing you my process so feel free to change things as you see fit. Each of these steps has a rough estimate of how much time I typically spend on them. This is not written in stone, and if you have more time to spend go ahead and iterate through each step refining details every pass. The main thing to remember is you want enough details to feel comfortable about running the game. The level is different from DM to DM and as you play more, your preparation style evolves. My main advice is to focus on aspects of the story and setting that are hard to improvise during play, like locations and characters, and leave the rest for the table.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/true" /><media:content medium="image" url="http://localhost:4000/true" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Setting up Your First Game</title><link href="http://localhost:4000/dm/Setting-up-your-first-game/" rel="alternate" type="text/html" title="Setting up Your First Game" /><published>2021-10-07T00:00:00-04:00</published><updated>2021-10-07T00:00:00-04:00</updated><id>http://localhost:4000/dm/Setting-up-your-first-game</id><content type="html" xml:base="http://localhost:4000/dm/Setting-up-your-first-game/">&lt;p&gt;Hats off to you if you’ve already gone through the recommended chapters in the basic rules, we’ve almost gotten to the fun stuff. And if you haven’t, well you’re probably in the same boat I’d be in and need some sort of push to get through it. How about we set a deadline by scheduling your first session?&lt;/p&gt;
+
+&lt;h2 id=&quot;assemble-your-party&quot;&gt;Assemble Your Party&lt;/h2&gt;
+
+&lt;p&gt;Your first big step is to find a group of people that have a spare 3 hours and would be interested in playing. This could be family, friends, coworkers, anyone on the street. Maybe not the last one… but really all you need is some enthusiasm or curiosity from the players and you can just build on that. Be upfront with the time commitment, unlike regular board games, we can’t really come to a satisfying ending within 20-40 minutes. I would recommend you give yourself at least 2.5 hours and maybe more if you have a break in between. This is so that both you and the players have time to really explore the game and also to account for the time learning how to play.&lt;/p&gt;
+
+&lt;p&gt;I would also recommend keeping this first session to only three to four players, not including yourself. This is just to keep things a little more simple and the more players there are at the table means less time for each player. This makes them more likely to tune out or get distracted. If you find you have too many players interested, that’s great! But you can just run the same adventure twice! If you find you only have one or two players interested, it’s also totally okay! As we prepare the adventure we can make some small tweaks to balance encounters for a smaller party.&lt;/p&gt;
+
+&lt;h2 id=&quot;picking-the-table&quot;&gt;Picking the Table&lt;/h2&gt;
+
+&lt;p&gt;Now I will admit, the experience of playing a game in-person can’t really be matched but with all the tools out there for playing online, you can come pretty close.&lt;/p&gt;
+
+&lt;p&gt;If you decide on playing in person, you really just need to find a spot to play that everyone can sit comfortably with their character sheets and dice. Possibly some extra space for a visual map if you decide on going that route. A kitchen table would work perfectly for this, but you could also squeeze the players on a couch while you setup on a coffee table. Anything where everyone has a view of each other and a clear view of you, the DM should work.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/img/tavern.jpg&quot; alt=&quot;tavern.jpg&quot; /&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;em&gt;You can get pretty crazy with the visuals too&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;a-virtual-table&quot;&gt;A Virtual Table&lt;/h2&gt;
+
+&lt;p&gt;If you decide on playing online, all you really need is a VoIP client like Discord, Skype, FaceTime, etc. where you can talk to the players real-time. Preferably with video but it’s not necessary. My recommendation would be to use Discord since it gives you a lot of tools that you can make use of while actually playing the session all for free. There is a great video tutorial on setting up a discord server for D&amp;amp;D by Mike Shea of Sly Flourish: &lt;a href=&quot;https://www.youtube.com/watch?v=_Yg-GyrcccI&quot;&gt;Playing D&amp;amp;D Online with Discord&lt;/a&gt;. But if you don’t want to spend the effort making an account/server then just go with whatever you and your group already uses to keep in touch over voice. As long as everyone can hear each other, the game will play out just fine.&lt;/p&gt;
+
+&lt;h2 id=&quot;setting-a-date&quot;&gt;Setting a Date&lt;/h2&gt;
+
+&lt;p&gt;In this hobby, you’ll hear the worst enemy an adventuring party can face is scheduling. You’ll soon learn that there is some truth in that but it also doesn’t have to be that difficult. If you are planning on running this game for more than just one session, I would recommend picking a time that generally works for the whole group on a consistent basis and just use the first session as a starting point. If you are just trying the game out for a session, just be warned that the experience is a little infectious and you might have players coming back for more.&lt;/p&gt;
+
+&lt;h2 id=&quot;spreading-the-excitement-with-homework&quot;&gt;Spreading the Excitement with Homework&lt;/h2&gt;
+
+&lt;p&gt;Now if you’ve managed to figure out the logistics, all you have left is getting the players to buy in. You can decide if you want to give your group pre-generated characters or if you want to have them create their own. Either way I’d recommend they skim through the chapters of the rules needed for players in the last post: &lt;a href=&quot;../_posts/2021-09-23-How-do-I-Play.md&quot;&gt;How do I Play&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you choose to give the players characters sheets, hand them out before the session. Tell them to read through the whole sheet at least once, but tell them to ignore the background section. They will be coming up with their own background for their character, something that relates to your setting.&lt;/p&gt;
+
+&lt;p&gt;If you choose to let your players create their own characters, encourage them to communicate with each other about what they’re coming up with. This is sure to drum up some excitement. But more importantly, make sure they are creating a character that fits into the setting of your adventure.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-pitch&quot;&gt;The Pitch&lt;/h2&gt;
+
+&lt;p&gt;All you really need to give the players is one solid adventure pitch. For this series, I’m going to give an example pitch that we’ll build on in coming posts but don’t feel the need to use this exact one. You can modify it any way you like and even just forgo it completely for your own if you have a better idea. The more important thing to learn is the process of building it.&lt;/p&gt;
+
+&lt;p&gt;We want a setting simple enough for the players to grasp, but also one that has an air of mystery. We also want to give the players the direction of the adventure, you could call this the &lt;em&gt;quest&lt;/em&gt;. It doesn’t have to be the detailed write-up, just the problem that the adventurers are trying to solve. And with that, let’s try this out:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In the small mining town of Cloverton, there spreads a great evil… Crawling, shambling closer to the light, something has been unearthed that had been buried away for a very long time. It may have been by natural forces inside the mountain or perhaps excavations by the Lion’s Head Mining Company, but whatever it is needs to be dealt with. It started slowly, with a few miners going missing but now the surrounding wildlife has been scared off and the people are starting to question the dwindling supply of miners showing up to work every day. The Lion’s Head Mining Company has put out a contract for helping them solve their little problem and you, brave adventurer, are the one for the job.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Give your players a pitch and sit back as they come up with the craziest backgrounds to fit into your world. Meanwhile, we shall work on actually building out the town of Cloverton and figure out what’s actually in that mine.&lt;/p&gt;</content><author><name>Jugal Patel</name></author><category term="DM" /><category term="DM" /><summary type="html">Hats off to you if you’ve already gone through the recommended chapters in the basic rules, we’ve almost gotten to the fun stuff. And if you haven’t, well you’re probably in the same boat I’d be in and need some sort of push to get through it. How about we set a deadline by scheduling your first session?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/true" /><media:content medium="image" url="http://localhost:4000/true" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">How do I play?</title><link href="http://localhost:4000/dm/How-do-I-Play/" rel="alternate" type="text/html" title="How do I play?" /><published>2021-09-23T00:00:00-04:00</published><updated>2021-09-23T00:00:00-04:00</updated><id>http://localhost:4000/dm/How-do-I-Play</id><content type="html" xml:base="http://localhost:4000/dm/How-do-I-Play/">&lt;p&gt;Unlike most traditional board games you’re familiar with Monopoly, Clue or The Game of Life, the rules for D&amp;amp;D are not an instruction guide on how to play the game step-by-step. The rules are in place for both the Dungeon Master (DM) and the adventurers to figure out how to advance the story. The DM uses the rules as reference when a scene or particular encounter comes into play. Knowledge of the rules, like any other game, comes over time as you actually play the game so don’t sweat it if you don’t know that the rules for hiding are in Chapter 7 under the subheading Dexterity. Over time, you’ll learn to flip through the rule book when a situation arises you don’t know how to handle and crease the pages of the book enough to flip to the exact spot.&lt;/p&gt;
+
+&lt;h2 id=&quot;game-rules&quot;&gt;Game Rules&lt;/h2&gt;
+
+&lt;p&gt;Now the biggest question of your DM-ing career is figuring out if you are old-school and like having notes written down in front of you or whether you prefer the convenience of technology. Either way Wizards of the Coast, the publishers of D&amp;amp;D, have made the basic rules available free for everyone to use, both digitally and in a pdf for you to print.&lt;/p&gt;
+
+&lt;p&gt;If you want all the rules offline, at your fingertips, this is the best place to get them: &lt;a href=&quot;https://dnd.wizards.com/articles/features/basicrules&quot;&gt;Basic rules in a PDF&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you prefer an interactive online tool-set, use this site: &lt;a href=&quot;https://www.dndbeyond.com/sources/basic-rules&quot;&gt;Basic rules on DnDBeyond&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;key-areas-to-cover&quot;&gt;Key areas to cover&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Now you may be asking, do I really need to read this entire 180 page document to play? And the answer is a resounding &lt;em&gt;no&lt;/em&gt;… But read just enough to get started.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There are a few key places in the rules you should read over to get an idea of how the game works. Reading the following sections should give you a better understanding of the game:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Introduction
+    &lt;blockquote&gt;
+      &lt;p&gt;The best intro I could never write, this is the perfect place for cementing the idea of D&amp;amp;D into your head&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ch 7: Using Ability Scores
+    &lt;blockquote&gt;
+      &lt;p&gt;The bread and butter of resolving most player actions&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ch 8: Adventuring
+    &lt;blockquote&gt;
+      &lt;p&gt;Bringing the dungeons into Dungeons and Dragons&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ch 9: Combat
+    &lt;blockquote&gt;
+      &lt;p&gt;Bringing the dragons into Dungeons and Dragons&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ch. 10: Spellcasting
+    &lt;blockquote&gt;
+      &lt;p&gt;How the rules of magic generally work in this game&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ch. 12: Monsters
+    &lt;blockquote&gt;
+      &lt;p&gt;For when you need to bring the players back in line&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here are some places where you should give a brief glance to know what they contain but it might be better to reference them as you’re playing:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ch. 1: Step-by-Step Characters
+    &lt;blockquote&gt;
+      &lt;p&gt;Gives you an idea of how adventurers are made&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ch. 2: Races
+    &lt;blockquote&gt;
+      &lt;p&gt;More for inspiration for the different types of inhabitants of this world&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ch. 3: Classes
+    &lt;blockquote&gt;
+      &lt;p&gt;For an idea of what the adventurers can actually do&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ch. 5: Equipment
+    &lt;blockquote&gt;
+      &lt;p&gt;For when the players eventually decide to spend an hour browsing a merchant’s stall&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ch. 11: Spells
+    &lt;blockquote&gt;
+      &lt;p&gt;Gives you an idea of all the ways the adventurers can mess with your world and it’s inhabitants&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ch. 14: Magic Items
+    &lt;blockquote&gt;
+      &lt;p&gt;Shiny new things to keep the players hooked&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now for your players at the table, they have some homework too. They should at least read all of &lt;strong&gt;Ch. 1: Step-by-Step Characters&lt;/strong&gt; to get an idea of what makes up a character. Now in my experience, after you give them this chapter, they can’t wait to make their own adventurer. This will naturally lead them into reading &lt;strong&gt;chapters 2 - 6&lt;/strong&gt; so I would just keep encouraging it. But also make sure they skim &lt;strong&gt;chapters 7,8,9&lt;/strong&gt; so that you will have a little less heavy lifting when it comes time to actually playing the game.&lt;/p&gt;
+
+&lt;p&gt;If the players don’t decide to create characters after reading through chapter 1, you can still provide them with pre-generated ones found here: &lt;a href=&quot;https://dnd.wizards.com/charactersheets&quot;&gt;Pre-generated Character Sheets&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;next-step&quot;&gt;Next step&lt;/h2&gt;
+
+&lt;p&gt;It’s a lot of effort to go through all this material but if you’ve started, give yourself a pat on the back! This is the beginning of a long and rewarding journey and it builds the foundation for all the fun stuff to come. Once you familiarize yourself with the rule book, you’ll naturally start using it as a reference when you run the game and it will become a tool in your belt that you get more comfortable using over time.&lt;/p&gt;
+
+&lt;p&gt;Now that you have the foundation built, we can start planning the first adventure for your players to play through and get them hooked enough to come back for more.&lt;/p&gt;</content><author><name>Jugal Patel</name></author><category term="DM" /><category term="DM" /><summary type="html">Unlike most traditional board games you’re familiar with Monopoly, Clue or The Game of Life, the rules for D&amp;amp;D are not an instruction guide on how to play the game step-by-step. The rules are in place for both the Dungeon Master (DM) and the adventurers to figure out how to advance the story. The DM uses the rules as reference when a scene or particular encounter comes into play. Knowledge of the rules, like any other game, comes over time as you actually play the game so don’t sweat it if you don’t know that the rules for hiding are in Chapter 7 under the subheading Dexterity. Over time, you’ll learn to flip through the rule book when a situation arises you don’t know how to handle and crease the pages of the book enough to flip to the exact spot.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/true" /><media:content medium="image" url="http://localhost:4000/true" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Why Become a Dungeon Master?</title><link href="http://localhost:4000/dm/Why-become-a-DM/" rel="alternate" type="text/html" title="Why Become a Dungeon Master?" /><published>2021-09-09T00:00:00-04:00</published><updated>2021-09-09T00:00:00-04:00</updated><id>http://localhost:4000/dm/Why-become-a-DM</id><content type="html" xml:base="http://localhost:4000/dm/Why-become-a-DM/">&lt;p&gt;Do you ever get a feeling of triumph seeing two hobbits named Sam and Frodo watch the One Ring dissolve into the fires of Mount Doom? Or when a farmboy named Luke Skywalker fires two proton torpedoes into the thermal exhaust port of planet-destroying Death Star? Or when Superman finally defeats Lex Luthor, Rocky Balboa knocks out Apollo Creed in the final round of their rematch, or when one of the countless protagonists from a novel or movie you enjoy succeeds in their quest?&lt;/p&gt;
+
+&lt;p&gt;That feeling is one that can only exist if the characters, the world, and the conflict in those stories are something you believe in. Even for the short amount of time you may be watching them on a screen or bringing them to life from page to imagination. These worlds that exist have to be imagined by somebody, but they only exist in that person’s head until they are shared with others.&lt;/p&gt;
+
+&lt;h2 id=&quot;dungeons-and-dragons&quot;&gt;Dungeons and Dragons&lt;/h2&gt;
+
+&lt;p&gt;The whole premise of tabletop roleplaying games and by extension, Dungeons and Dragons, is to tell a collaborative story. A story not like any other you may have experienced in popular culture. This is a story which exists only in the minds of everyone at the table. But everyone playing has a hand in contributing to it. Out of all the players in in D&amp;amp;D, one takes the role of Dungeon Master and the rest take the role of adventurers.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;adventurers&lt;/strong&gt; are the protagonists (&lt;em&gt;or antagonists&lt;/em&gt;) of the story. They are the ones to cheer for, the ones that bring change, conflict, and tension into the world you have created. The players are responsible for getting in the minds of their adventurers and acting not as themselves, but the characters they portray.&lt;/p&gt;
+
+&lt;h3 id=&quot;storytelling&quot;&gt;Storytelling&lt;/h3&gt;
+
+&lt;p&gt;As a &lt;strong&gt;Dungeon Master&lt;/strong&gt; or &lt;strong&gt;DM&lt;/strong&gt;, you are basically everything else that makes up the world. You are the game’s lead storyteller. You are the lens that the players look into to see the world that you have created. The places that they can go, the allies they can make, the enemies they may encounter. Without the world, the players have nothing to explore and nothing to do but without the players, there is no story to tell. It’s a balancing act, one that takes years to perfect but creates the entire premise of the game.&lt;/p&gt;
+
+&lt;h3 id=&quot;referee&quot;&gt;Referee&lt;/h3&gt;
+
+&lt;p&gt;As a DM you are also responsible for enforcing the rules or creating new ones when there are none that fit. Taking what the players say and interpreting the rules of the game into actions which will be resolved by the roll of a dice. This is where the game gets interesting because nothing in the story is certain. The nature of rolling to determine an outcome means that anything can and will happen. However, the adventurers are created in such a way that might make them better suited for certain situations versus others.&lt;/p&gt;
+
+&lt;h3 id=&quot;structure-of-the-game&quot;&gt;Structure of the Game&lt;/h3&gt;
+
+&lt;p&gt;The game follows a structure where the DM gives a description of a dark dingy dungeon, perhaps acts as a supporting character giving a quest, or narrates a bar brawl happening before the adventurers’ eyes. The players now choose how they interact with the situation put before them, communicating with the DM what their intentions are. The DM now makes a call how to proceed, whether the actions that the players want to take requires a die roll or just happens. Either way, they narrate the outcome and now the players are left back in the driver’s seat as they interact with more of the world.&lt;/p&gt;
+
+&lt;h2 id=&quot;so-why-dungeon-master&quot;&gt;So Why Dungeon Master?&lt;/h2&gt;
+
+&lt;p&gt;While this may sound like a lot of work, the moments you are creating with players at the table rival, even surpass, the ones you can get from novels, movies, and TV shows. As games go on, every D&amp;amp;D player will tell you their investment into the world only grows deeper. And as most DMs will tell you, the attachment and inspiration put into the world that they have created only grows stronger.&lt;/p&gt;
+
+&lt;p&gt;D&amp;amp;D is a wonderful hobby and one that more people should have the pleasure of experiencing. The only way to really play is to have someone step up and learn &lt;em&gt;just enough&lt;/em&gt; to bring a world to life in front of a group of players. And those players giving into the suspension of disbelief and creating an epic adventure.&lt;/p&gt;
+
+&lt;p&gt;So if you are attracted to telling a story:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;With twists and turns brought by complete misunderstandings&lt;/li&gt;
+  &lt;li&gt;Where running jokes become the norm&lt;/li&gt;
+  &lt;li&gt;Where subtle clues can lead to mind-shattering revelations&lt;/li&gt;
+  &lt;li&gt;Where you fly by the seat of your pants, improvising at every opportunity&lt;/li&gt;
+  &lt;li&gt;Where a world from your imagination comes to life&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You should probably become a Dungeon Master.&lt;/p&gt;</content><author><name>Jugal Patel</name></author><category term="DM" /><category term="DM" /><summary type="html">Do you ever get a feeling of triumph seeing two hobbits named Sam and Frodo watch the One Ring dissolve into the fires of Mount Doom? Or when a farmboy named Luke Skywalker fires two proton torpedoes into the thermal exhaust port of planet-destroying Death Star? Or when Superman finally defeats Lex Luthor, Rocky Balboa knocks out Apollo Creed in the final round of their rematch, or when one of the countless protagonists from a novel or movie you enjoy succeeds in their quest?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/true" /><media:content medium="image" url="http://localhost:4000/true" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

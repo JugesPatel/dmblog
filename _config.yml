@@ -12,7 +12,7 @@
 
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -81,10 +81,10 @@ baidu_site_verification  :
 # Social Sharing
 twitter:
   username               : JugesPatel
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
+# facebook:
+#   username               :
+#   app_id                 :
+#   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -107,19 +107,14 @@ author:
   name             : "Jugal Patel"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A Dungeon Master helping new players into the hobby."
-  location         : "Canada"
-  email            : jugal@jugal-patel.com
   links:
-    - label: "Email"
+    - label: "jugal@jugal-patel.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:jugal@jugal-patel.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://jugal-patel.com"
-    - label: "Twitter"
+    - label: "@JugesPatel"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/JugesPatel"
-    - label: "GitHub"
+    - label: "JugesPatel"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/JugesPatel"
     # - label: "Facebook"
@@ -230,6 +225,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jemoji
   - jekyll-seo-tag
 
 # mimic GitHub Pages with --safe
@@ -282,13 +278,20 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "assets/img"
+      path: ""
       type: posts
     values:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
       image: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true

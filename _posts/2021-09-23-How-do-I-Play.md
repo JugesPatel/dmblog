@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "How do I play?"
 date: 2021-09-23
 categories: [DM]
