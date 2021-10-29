@@ -3,6 +3,7 @@ title: "Setting up Your First Game"
 date: 2021-10-07
 categories: [DM]
 tags: [DM]
+toc: true
 ---
 
 Hats off to you if you've already gone through the recommended chapters in the basic rules, we've almost gotten to the fun stuff. And if you haven't, well you're probably in the same boat I'd be in and need some sort of push to get through it. How about we set a deadline by scheduling your first session?

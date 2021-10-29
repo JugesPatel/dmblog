@@ -3,6 +3,7 @@ title: "How do I play?"
 date: 2021-09-23
 categories: [DM]
 tags: [DM]
+toc: true
 ---
 
 Unlike most traditional board games you're familiar with Monopoly, Clue or The Game of Life, the rules for D&D are not an instruction guide on how to play the game step-by-step. The rules are in place for both the Dungeon Master (DM) and the adventurers to figure out how to advance the story. The DM uses the rules as reference when a scene or particular encounter comes into play. Knowledge of the rules, like any other game, comes over time as you actually play the game so don't sweat it if you don't know that the rules for hiding are in Chapter 7 under the subheading Dexterity. Over time, you'll learn to flip through the rule book when a situation arises you don't know how to handle and crease the pages of the book enough to flip to the exact spot.
