@@ -32,7 +32,7 @@ If you decide on playing online, all you really need is a VoIP client like Disco
 
 In this hobby, you'll hear the worst enemy an adventuring party can face is scheduling. You'll soon learn that there is some truth in that but it also doesn't have to be that difficult. If you are planning on running this game for more than just one session, I would recommend picking a time that generally works for the whole group on a consistent basis and just use the first session as a starting point. If you are just trying the game out for a session, just be warned that the experience is a little infectious and you might have players coming back for more.
 
-## Spreading the Excitement with Homework
+## Spreading Excitement with Homework
 
 Now if you've managed to figure out the logistics, all you have left is getting the players to buy in. You can decide if you want to give your group pre-generated characters or if you want to have them create their own. Either way I'd recommend they skim through the chapters of the rules needed for players in the last post: [How do I Play](../_posts/2021-09-23-How-do-I-Play.md).
 
@@ -47,6 +47,6 @@ All you really need to give the players is one solid adventure pitch. For this s
 
 We want a setting simple enough for the players to grasp, but also one that has an air of mystery. We also want to give the players the direction of the adventure, you could call this the *quest*. It doesn't have to be the detailed write-up, just the problem that the adventurers are trying to solve. And with that, let's try this out:
 
->In the small mining town of Cloverton, there spreads a great evil... Crawling, shambling closer to the light, something has been unearthed that had been buried away for a very long time. It may have been by natural forces inside the mountain or perhaps excavations by the Lion's Head Mining Company, but whatever it is needs to be dealt with. It started slowly, with a few miners going missing but now the surrounding wildlife has been scared off and the people are starting to question the dwindling supply of miners showing up to work every day. The Lion's Head Mining Company has put out a contract for helping them solve their little problem and you, brave adventurer, are the one for the job.
+>In the small mining town of Cloverton, there spreads a great evil... Crawling, shambling closer to the light, something has been unearthed that had been buried away for a very long time. It may have been by natural forces inside the mountain or perhaps excavations by the Lion's Head Mining Company, but whatever it is needs to be dealt with. It started slowly, with a few miners going missing but now the surrounding wildlife has been scared off and the people are starting to question the dwindling supply of able-bodied miners. The Lion's Head Mining Company has put out a contract for helping them solve their little problem and you, brave adventurer, are the one for the job.
 
 Give your players a pitch and sit back as they come up with the craziest backgrounds to fit into your world. Meanwhile, we shall work on actually building out the town of Cloverton and figure out what's actually in that mine.

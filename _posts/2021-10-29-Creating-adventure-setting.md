@@ -13,7 +13,7 @@ In this post, we're going to take the adventure pitch from the last blog post ([
 
 Now here's a quick refresher of the adventure pitch:
 
->In the small mining town of Cloverton, there spreads a great evil... Crawling, shambling closer to the light, something has been unearthed that had been buried away for a very long time. It may have been by natural forces inside the mountain or perhaps excavations by the Lion's Head Mining Company, but whatever it is needs to be dealt with. It started slowly, with a few miners going missing but now the surrounding wildlife has been scared off and the people are starting to question the dwindling supply of miners showing up to work every day. The Lion's Head Mining Company has put out a contract for helping them solve their little problem and you, brave adventurer, are the one for the job.
+>In the small mining town of Cloverton, there spreads a great evil... Crawling, shambling closer to the light, something has been unearthed that had been buried away for a very long time. It may have been by natural forces inside the mountain or perhaps excavations by the Lion's Head Mining Company, but whatever it is needs to be dealt with. It started slowly, with a few miners going missing but now the surrounding wildlife has been scared off and the people are starting to question the dwindling supply of able-bodied miners. The Lion's Head Mining Company has put out a contract for helping them solve their little problem and you, brave adventurer, are the one for the job.
 
 ## A History Lesson - 10 to 15 minutes
 
