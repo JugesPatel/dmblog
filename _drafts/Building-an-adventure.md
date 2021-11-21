@@ -29,25 +29,37 @@ This is where you should ask yourself, what would be the most effective to draw 
 
 My general recommendation if you aren't sure what approach to take is to start the players as close to the quest location as possible. This will reduce the time for the players to get into the action and you can start using what you have prepared. With our beginning, we want to introduce the setting and clearly outline the goal of the quest. Give the players a few details about the world and the theme and then leave them with something to act on. Whether this is a direct action they can take or a short list of choices, give the players something to do so that the game starts.
 
-
 ### Adventure Start
 
-I like to make a few bullet points that I then read over and improvise an opening to start the session off (Think: "Once upon a time, ...). You can choose to turn the bullet points into a full-fledged paragraph that you read aloud to the players before the session or do as I do and improvise. Whichever you prefer, just keep it short to not lose the attention of your players.
+I like to make a few bullet points that I then read over and improvise an opening to start the session off (Think: "Once upon a time, ...). You can also choose to refine the bullet points into a paragraph that you read aloud to the players before the session if you want to really iron down a script. Whichever you prefer, just keep it short to not lose the attention of your players.
 
 - You have accepted the contract sent out by Berta Clanghammer of the Lion's Head Mining Company
 - Miners have been disappearing in the mines and they are in need a group of adventurers to find them and return them safely
 - A larger payout for those adventurers who go a step further and deal with the cause of the disappearances
 - Lion's Head Mine is located on the outskirts of a small, rough-and-tumble town called Cloverton
-- The population of the town is booming with an influx of miners looking to strike rich, but this problem threatens to shut down the entire operation
 - An active protest creates a blockade at the entrance of the Lion's Head Mine
 - Contract states you need to make contact with the foreman, Gil, who is currently holed up in a stone building just outside the entrance
 
-And here's something I might read out loud to the players when we begin:
+And if we wanted to refine the points further, I would read this out loud to the players when we begin:
 
-> 
-
+> On the long, forested road to Cloverton, you eye over the contract once again:
+>
+>>"To all vagabonds, mercenaries, and rat-catchers: your skills are needed. An unknown threat seeks to ruin the Lion's Head Mining Company operations. Miners have gone missing under suspicious circumstances and we would like to see them returned so that they may resume work. Payout for the contract is 50 gold pieces a head safely returned, and a bonus of 250 gold pieces for the elimination of the threat. Speak to the foreman of the mining operation, Gil, in the office outside the entrance for more information. Signed, Berta Clanghammer"
+>
+>You've heard of the small settlement of Cloverton, a real rough-and tumble place that's nestled next to the Rimengul Peaks. It's hard to ignore with all the tall tales floating around about ancient dwarven treasure, dead white dragons, and deep twisting caves hidden in those mountains. You've never really thought too much about it and apparently neither have all the city-folk that are rushing to the town looking to make a quick piece.
+>
+>As you approach the base of one of the mountains your cart slows down and you hear a chant echoing from the entrance of the mine.
+>>"Unsafe for out mates! Find them! Mine then!"
+>
+>A large crowd of dust-covered, working folk stand outside this ominous cave entrance. They continue chanting as your cart pulls up to a stop. You see a small stoned building with a boarded up window a few feet away from the entrance. At the door stands a rather burly-looking man banging and shouting obscenities. One of the members of the crowd breaks off from the protest and approaches your party. He looks you up and down and asks, "Have you come to join our protest?"
+>
+> How do you respond?
 
 ## The Middle
+
+
+
+
 
 
 ### Mapping out the mine
@@ -73,12 +85,8 @@ In most narrative media we consume, it's all written by the same person or group
 
 
 
-Let's summarize what we have so far:
 
-- We have a basic grasp on the rules of the game
-- We have scheduled a session with some friends and/or family to play out this adventure
-- We have a quest that we can give to the players to get them started
-- We have an adventure setting with a few key characters, locations, and a little bit of history
+
 
 
 ## How much do I need to prepare?
@@ -93,9 +101,6 @@ So here are the areas I would focus on for preparing this adventure:
 - What sort of treasure can the players stumble upon?
 - If the players succeed or fail, what are the consequences?
 
-
-
-## Fallout and the conclusion
 
 
 ## Additional resources to keep on hand
